@@ -1,0 +1,20 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 4
+
+login: K007
+password: 4bed23525c
+
+title_name: Hello
+description_name: world
+content_name: Hello world!
+
+your_name: Petya
+your_email: Petya@gmail.com
+your_content: Hello world!
+
+url_login: https://test-stand.gb.ru/gateway/login
+url_posts: https://test-stand.gb.ru/api/posts
+
+login_1: nikolay1980
+password_1: 113a0d7d6a
